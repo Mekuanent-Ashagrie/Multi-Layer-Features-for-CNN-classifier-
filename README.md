@@ -7,6 +7,8 @@ Usually the flatten layer that is used to generate a 1D vector of those feature 
 
 Here is how i modify the architecture 
 
+![Multiple Flatten Layers](Multiple-Flatten-Layers.png)
+
 Thanks to tensor flow, I have used the cat and dog classification model and dataset to demonestrate this idea of using both low level and high level features for classification.
 
 
